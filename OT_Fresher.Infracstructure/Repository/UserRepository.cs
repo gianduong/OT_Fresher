@@ -19,6 +19,16 @@ namespace OT_Fresher.Infracstructure.Repository
         {
             _dynamicParameters = new DynamicParameters();
         }
+
+        public bool CheckEmailExist(string email)
+        {
+            using (_dbConnection = new MySqlConnection(_connectString))
+            {
+                _dynamicParameters.Add(@"m_Email", email);
+                return _dbConnection.ExecuteScalar<bool>("Proc_CheckUserEmailExist", _dynamicParameters, commandType: CommandType.StoredProcedure);
+            }
+        }
+
         public IEnumerable<User> GetByPaginationFilter(int pageInt, int pageSize, string filterString)
         {
             using (_dbConnection = new MySqlConnection(_connectString))

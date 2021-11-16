@@ -31,5 +31,12 @@ namespace OT_Fresher.Core.Interfaces.Repository
         /// </returns>
         /// NGDuong (18/08/2021)
         int GetTotalByFilter(string filterString);
+        /// <summary>
+        /// Kiểm tra Email có bị trùng hay không
+        /// </summary>
+        /// <param name="email">Email</param>
+        /// <returns> true : có trùng; False: không trùnd</returns>
+        /// CreatedBy: NGDuong (15/11/2021)
+        bool CheckEmailExist(string email);
     }
 }

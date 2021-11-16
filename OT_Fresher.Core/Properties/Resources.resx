@@ -130,6 +130,9 @@
   <data name="Error Exception" xml:space="preserve">
     <value>Có lỗi xảy ra trong hệ thống</value>
   </data>
+  <data name="Error_EmailExist" xml:space="preserve">
+    <value>Tài khoản này đã tồn tại. Vui lòng kiểm tra lại!</value>
+  </data>
   <data name="excel_AccountNumber" xml:space="preserve">
     <value>Số tài khoản</value>
     <comment>Số tài khoản</comment>

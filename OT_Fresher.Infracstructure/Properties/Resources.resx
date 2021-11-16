@@ -129,6 +129,9 @@
   <data name="dy_int" xml:space="preserve">
     <value>@m_PageInt</value>
   </data>
+  <data name="dy_mail" xml:space="preserve">
+    <value>@m_Email</value>
+  </data>
   <data name="dy_size" xml:space="preserve">
     <value>@m_PageSize</value>
   </data>
@@ -140,6 +143,9 @@
   </data>
   <data name="proc_CheckCodeExist" xml:space="preserve">
     <value>Proc_CheckEmployeeCodeExists</value>
+  </data>
+  <data name="Proc_CheckEmailExist" xml:space="preserve">
+    <value>Proc_CheckEmailExist</value>
   </data>
   <data name="Proc_Delete_className" xml:space="preserve">
     <value>Proc_Delete{0}</value>
