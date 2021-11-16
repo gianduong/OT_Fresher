@@ -1,0 +1,14 @@
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.csproj.AssemblyReference.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.Properties.Resources.resources
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.csproj.GenerateResource.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.AssemblyInfoInputs.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.AssemblyInfo.cs
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.csproj.CoreCompileInputs.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\bin\Debug\net5.0\OT_Fresher.Core.deps.json
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\bin\Debug\net5.0\OT_Fresher.Core.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\bin\Debug\net5.0\ref\OT_Fresher.Core.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\bin\Debug\net5.0\OT_Fresher.Core.pdb
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\ref\OT_Fresher.Core.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Core\obj\Debug\net5.0\OT_Fresher.Core.pdb

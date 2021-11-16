@@ -1,0 +1,17 @@
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.csproj.AssemblyReference.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.Properties.Resources.resources
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.csproj.GenerateResource.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.AssemblyInfoInputs.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.AssemblyInfo.cs
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.csproj.CoreCompileInputs.cache
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\OT_Fresher.Infracstructure.deps.json
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\OT_Fresher.Infracstructure.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\ref\OT_Fresher.Infracstructure.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\OT_Fresher.Infracstructure.pdb
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\OT_Fresher.Core.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\bin\Debug\net5.0\OT_Fresher.Core.pdb
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.csproj.CopyComplete
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\ref\OT_Fresher.Infracstructure.dll
+E:\Reactjs\OT_Fresher\OT_Fresher.Infracstructure\obj\Debug\net5.0\OT_Fresher.Infracstructure.pdb

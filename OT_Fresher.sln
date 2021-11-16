@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OT_Fresher.Web", "OT_Fresher.Web\OT_Fresher.Web.csproj", "{EB14704B-4520-41FE-AB30-EA707EDC497E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80} = {FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6} = {D4D0D5CA-0875-439F-B70B-E13544243EA6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OT_Fresher.Core", "OT_Fresher.Core\OT_Fresher.Core.csproj", "{D4D0D5CA-0875-439F-B70B-E13544243EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OT_Fresher.Infracstructure", "OT_Fresher.Infracstructure\OT_Fresher.Infracstructure.csproj", "{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6} = {D4D0D5CA-0875-439F-B70B-E13544243EA6}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB14704B-4520-41FE-AB30-EA707EDC497E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB14704B-4520-41FE-AB30-EA707EDC497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB14704B-4520-41FE-AB30-EA707EDC497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB14704B-4520-41FE-AB30-EA707EDC497E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D0D5CA-0875-439F-B70B-E13544243EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE5B96C-80AD-4EB6-83A8-54CAF238CB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F3685B-630A-4B93-999F-B6379A988394}
+	EndGlobalSection
+EndGlobal
