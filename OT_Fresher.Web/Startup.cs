@@ -38,7 +38,7 @@ namespace OT_Fresher.Web
                                   {
                                       builder.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod(); ;
                                       builder.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod(); ;
-                                      builder.WithOrigins("http://localhost:3001").AllowAnyHeader().AllowAnyMethod(); ;
+                                      builder.WithOrigins("https://omegatheme-demo.herokuapp.com").AllowAnyHeader().AllowAnyMethod(); ;
                                   });
             });
             services.AddControllers(options =>
